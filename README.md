@@ -30,17 +30,17 @@
 
 ### 📫 Contact Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/jamal-ezziouani-8ab707252/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:your-email@example.com">
+ <a href="mailto:jamalezziouani.45@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/USERNAME" target="_blank">
+ <a href="https://www.instagram.com/jamal_e10" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
