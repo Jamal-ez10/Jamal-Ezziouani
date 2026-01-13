@@ -29,8 +29,26 @@
 ---
 
 ### 📫 Contact Me
-- 💼 LinkedIn: (https://www.linkedin.com/in/jamal-ezziouani-8ab707252/)
-- 📧 Email: (Jamalezziouani.45@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
+  </a>
+</p>
 
 ---
 
